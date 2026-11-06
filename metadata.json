@@ -1,0 +1,6 @@
+{
+  "name": "SONORA Counterpoint Studio",
+  "description": "Intelligent multi-voice composition workstation for master music producers, powered by 18th-century counterpoint principles and modern creative polyphony.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
